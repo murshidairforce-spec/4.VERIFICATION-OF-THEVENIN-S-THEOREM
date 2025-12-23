@@ -1,5 +1,6 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
-
+MURSHID AHMED S 
+212225060171
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
